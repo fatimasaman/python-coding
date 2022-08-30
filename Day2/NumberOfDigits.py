@@ -8,4 +8,4 @@ while num != 0:
     nod+=1
 print(nod)  
 
-#There is another way of doing it 
+#There is another way of doing it --log
